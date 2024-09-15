@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Vitor Hugo Nunes
 
-<p>Estudo ADS no IFSP atualmente</p>
+<p>Estudo ADS na Anhembi Morumbi atualmente</p>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="VH-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
